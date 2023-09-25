@@ -1,0 +1,14 @@
+{
+	"category" : "GOD-Love",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GODLess",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
